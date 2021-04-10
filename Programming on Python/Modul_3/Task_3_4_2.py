@@ -10,4 +10,4 @@ with open('dataset_3363_3.txt', 'r') as inf:
                 cont = co
                 word = i
 
-    print(word,cont)
+    print(word, cont)
